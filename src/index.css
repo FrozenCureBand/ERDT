@@ -66,3 +66,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@import "tailwindcss";
+
+/* Tu configuración de fondo para El Rincón de Totto */
+body {
+  margin: 0;
+  background-color: #f8fafc;
+}
